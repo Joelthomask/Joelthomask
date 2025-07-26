@@ -5,4 +5,4 @@ Here's what you can find on my GitHub:
 - 📱 RoadAssist App – Real-time emergency roadside assistance
 - 💡 Mini Projects and Hackathon Builds
 
-📫 Let's connect on [LinkedIn](https://linkedin.com/in/YOUR-LINK)
+📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/joel-thomask/)
